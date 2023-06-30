@@ -1,1 +1,1 @@
-# project-terraform-template
+# terraform-template
