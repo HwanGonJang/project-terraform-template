@@ -1,1 +1,1 @@
-# yourssu-hackathon-terraform
+# project-terraform-template
